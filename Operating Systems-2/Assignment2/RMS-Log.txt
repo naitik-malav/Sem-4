@@ -1,0 +1,78 @@
+Process P1: processing time=5; deadline=10; period=10; joined the system at time: 0
+Process P2: processing time=3; deadline=15; period=15; joined the system at time: 0
+Process P3: processing time=4; deadline=15; period=15; joined the system at time: 0
+Process P1 starts execution at time 0
+Process P1 finishes execution at time 5
+Process P2 starts execution at time 5
+Process P2 finishes execution at time 8
+Process P3 starts execution at time 8
+Process P3 is preempted by P1 at time 10 Remaining processsing time:2
+Process P1 starts execution at time 10
+Process P1 finishes execution at time 15
+Process P3 missed deadline at time 15
+Process P3 starts execution at time 15
+Process P3 finishes execution at time 19
+Process P2 starts execution at time 19
+Process P2 is preempted by P1 at time 20 Remaining processsing time:2
+Process P1 starts execution at time 20
+Process P1 finishes execution at time 25
+Process P2 resumes execution at time 25
+Process P2 finishes execution at time 27
+CPU is idle till time 30
+Process P1 starts execution at time 30
+Process P1 finishes execution at time 35
+Process P3 starts execution at time 35
+Process P3 finishes execution at time 39
+Process P2 starts execution at time 39
+Process P2 is preempted by P1 at time 40 Remaining processsing time:2
+Process P1 starts execution at time 40
+Process P1 finishes execution at time 45
+Process P2 missed deadline at time 45
+Process P2 starts execution at time 45
+Process P2 finishes execution at time 48
+Process P3 starts execution at time 48
+Process P3 is preempted by P1 at time 50 Remaining processsing time:2
+Process P1 starts execution at time 50
+Process P1 finishes execution at time 55
+Process P3 resumes execution at time 55
+Process P3 finishes execution at time 57
+CPU is idle till time 60
+Process P1 starts execution at time 60
+Process P1 finishes execution at time 65
+Process P2 starts execution at time 65
+Process P2 finishes execution at time 68
+Process P3 starts execution at time 68
+Process P3 is preempted by P1 at time 70 Remaining processsing time:2
+Process P1 starts execution at time 70
+Process P1 finishes execution at time 75
+Process P3 missed deadline at time 75
+Process P3 starts execution at time 75
+Process P3 finishes execution at time 79
+Process P2 starts execution at time 79
+Process P2 is preempted by P1 at time 80 Remaining processsing time:2
+Process P1 starts execution at time 80
+Process P1 finishes execution at time 85
+Process P2 resumes execution at time 85
+Process P2 finishes execution at time 87
+CPU is idle till time 90
+Process P1 starts execution at time 90
+Process P1 finishes execution at time 95
+Process P3 starts execution at time 95
+Process P3 finishes execution at time 99
+Process P2 starts execution at time 99
+Process P2 finishes execution at time 102
+CPU is idle till time 105
+Process P3 starts execution at time 105
+Process P3 finishes execution at time 109
+Process P2 starts execution at time 109
+Process P2 finishes execution at time 112
+CPU is idle till time 120
+Process P3 starts execution at time 120
+Process P3 finishes execution at time 124
+Process P2 starts execution at time 124
+Process P2 finishes execution at time 127
+CPU is idle till time 135
+Process P3 starts execution at time 135
+Process P3 finishes execution at time 139
+Process P2 starts execution at time 139
+Process P2 finishes execution at time 142

@@ -1,0 +1,69 @@
+Process P1: execution time=5; deadline=10; period=10; joined the system at time: 0
+Process P2: execution time=3; deadline=15; period=15; joined the system at time: 0
+Process P3: execution time=4; deadline=15; period=15; joined the system at time: 0
+Process P1 starts execution at time 0
+Process P1 finishes execution at time 5
+Process P2 starts execution at time 5
+Process P2 finishes execution at time 8
+Process P3 starts execution at time 8
+Process P3 finishes execution at time 12
+Process P1 starts execution at time 12
+Process P1 finishes execution at time 17
+Process P2 starts execution at time 17
+Process P2 finishes execution at time 20
+Process P3 starts execution at time 20
+Process P3 finishes execution at time 24
+Process P1 starts execution at time 24
+Process P1 finishes execution at time 29
+CPU is idle till time 30
+Process P1 starts execution at time 30
+Process P1 finishes execution at time 35
+Process P3 starts execution at time 35
+Process P3 finishes execution at time 39
+Process P2 starts execution at time 39
+Process P2 finishes execution at time 42
+Process P1 starts execution at time 42
+Process P1 finishes execution at time 47
+Process P3 starts execution at time 47
+Process P3 finishes execution at time 51
+Process P2 starts execution at time 51
+Process P2 finishes execution at time 54
+Process P1 starts execution at time 54
+Process P1 finishes execution at time 59
+CPU is idle till time 60
+Process P1 starts execution at time 60
+Process P1 finishes execution at time 65
+Process P2 starts execution at time 65
+Process P2 finishes execution at time 68
+Process P3 starts execution at time 68
+Process P3 finishes execution at time 72
+Process P1 starts execution at time 72
+Process P1 finishes execution at time 77
+Process P2 starts execution at time 77
+Process P2 finishes execution at time 80
+Process P3 starts execution at time 80
+Process P3 finishes execution at time 84
+Process P1 starts execution at time 84
+Process P1 finishes execution at time 89
+CPU is idle till time 90
+Process P1 starts execution at time 90
+Process P1 finishes execution at time 95
+Process P3 starts execution at time 95
+Process P3 finishes execution at time 99
+Process P2 starts execution at time 99
+Process P2 finishes execution at time 102
+CPU is idle till time 105
+Process P2 starts execution at time 105
+Process P2 finishes execution at time 108
+Process P3 starts execution at time 108
+Process P3 finishes execution at time 112
+CPU is idle till time 120
+Process P2 starts execution at time 120
+Process P2 finishes execution at time 123
+Process P3 starts execution at time 123
+Process P3 finishes execution at time 127
+CPU is idle till time 135
+Process P2 starts execution at time 135
+Process P2 finishes execution at time 138
+Process P3 starts execution at time 138
+Process P3 finishes execution at time 142
