@@ -1,0 +1,2 @@
+Average time = 20.9168s
+Max waiting time = 123.868s
